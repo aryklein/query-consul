@@ -1,7 +1,7 @@
 # query-consul
 
-This is a Python script that I use to query Consul for a service in all datacenters in its
-catalog.
+This is a personal Python3 script that I use to query Consul for a service in all datacenters
+in its catalog.
 
 ## Usage
 
